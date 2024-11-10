@@ -1,0 +1,546 @@
+.leaving-from-klang {
+    position: absolute;
+    inset: 0;
+}
+.boxLeavingFrom {
+    background: #ffffff;
+    width: 650px;
+    height: 60px;
+    position: absolute;
+    left: 289px;
+    top: 188px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4),
+      0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.leaving-from {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 106px;
+    top: 201px;
+}
+.dotLeaving {
+    background: #d9d9d9;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 55px;
+    top: 203px;
+}
+.klang {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 342px;
+    top: 202px;
+}
+.going-to-sri {
+    position: absolute;
+    inset: 0;
+}
+.boxGoingTo {
+    background: #ffffff;
+    width: 650px;
+    height: 60px;
+    position: absolute;
+    left: 289px;
+    top: 281px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4),
+    0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.going-to {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 113px;
+    top: 294px;
+}
+.dotGoing {
+    background: #5cb9ce;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 55px;
+    top: 295px;
+}
+.sri-petaling {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 342px;
+    top: 295px;
+}
+.up-and-down {
+    position: absolute;
+    inset: 0;
+}
+.whiteCircle {
+    background: #ffffff;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 65px;
+    height: 65px;
+    position: absolute;
+    left: 846px;
+    top: 230px;
+}
+.upDownIcon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 855px;
+    top: 237px;
+}
+.available {
+    position: absolute;
+    inset: 0;
+}
+._25-oct-2023 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 88px;
+    top: 418px;
+}
+._15-riders-available {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 88px;
+    top: 457px;
+}
+.container-1 {
+    position: absolute;
+    inset: 0;
+}
+.klang-sri-petaling {
+    width: 1270px;
+    height: 180px;
+    position: static;
+}
+.box-1 {
+    background: #ffffff;
+    border-radius: 10px;
+    width: 1270px;
+    height: 180px;
+    position: absolute;
+    left: 88px;
+    top: 534px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.klang-sri-petaling2 {
+    width: 1005px;
+    height: 100px;
+    position: static;
+}
+.rm-4 {
+    color: #5451df;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    position: absolute;
+    left: 1078px;
+    top: 552px;
+}
+.dotKlang  {
+    background: #d9d9d9;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 136px;
+    top: 578px;
+}
+.klang2 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 176px;
+    top: 572px;
+}
+.sri-petaling2 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 175px;
+    top: 621px;
+}
+.dotSriPetaling {
+    background: #5cb9ce;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 136px;
+    top: 627px;
+}
+._2-30-pm {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 136px;
+    top: 536px;
+}
+.rider {
+    width: 194px;
+    height: 40px;
+    position: static;
+}
+.rider-name {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 187px;
+    top: 667px;
+}
+.riderIcon {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 126px;
+    top: 663px;
+}
+.passenger {
+    width: 91px;
+    height: 40px;
+    position: static;
+}
+.passIcon {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1072px;
+    top: 607px;
+}
+.passIcon1 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1021px;
+    top: 607px;
+}
+.rate {
+    width: 229px;
+    height: 31px;
+    position: static;
+}
+._4-5 {
+    width: 150px;
+    height: 30px;
+    position: static;
+}
+.starIcon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 922px;
+    top: 668px;
+}
+.starIcon1 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 952px;
+    top: 668px;
+}
+.starIcon2 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 982px;
+    top: 668px;
+}
+.starIcon3 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 1012px;
+    top: 668px;
+}
+.halfStarIcon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 1042px;
+    top: 668px;
+}
+._4-5-35 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 1078px;
+    top: 667px;
+}
+.book {
+    width: 120px;
+    height: 60px;
+    position: static;
+}
+.boxBook1 {
+    background: #5cb9ce;
+    border-radius: 10px;
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    left: 1205px;
+    top: 600px;
+}
+.book2 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 1235px;
+    top: 617px;
+}
+.container-2 {
+    position: absolute;
+    inset: 0;
+}
+.box-2 {
+    background: #ffffff;
+    border-radius: 10px;
+    width: 1270px;
+    height: 180px;
+    position: absolute;
+    left: 88px;
+    top: 747px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.klang-sri-petaling3 {
+    width: 1004px;
+    height: 100px;
+    position: static;
+}
+.rm-3 {
+    color: #5451df;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    position: absolute;
+    left: 1078px;
+    top: 765px;
+}
+.dotKlang1 {
+    background: #d9d9d9;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 136px;
+    top: 791px;
+}
+.klang3 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 176px;
+    top: 785px;
+}
+.sri-petaling3 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 175px;
+    top: 834px;
+}
+.dotSriPetaling1 {
+    background: #5cb9ce;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 136px;
+    top: 840px;
+}
+._12-30-pm {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 132px;
+    top: 749px;
+}
+.rider-name2 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 187px;
+    top: 880px;
+}
+.riderIcon1 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 126px;
+    top: 876px;
+}
+.passenger2 {
+    width: 140px;
+    height: 40px;
+    position: static;
+}
+.passIcon2 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1072px;
+    top: 820px;
+}
+.passIcon3 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1021px;
+    top: 820px;
+}
+.passIcon4 {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 972px;
+    top: 820px;
+}
+.rate2 {
+    width: 231px;
+    height: 31px;
+    position: static;
+}
+._4-52 {
+    width: 149px;
+    height: 30px;
+    position: static;
+}
+.starIcon4 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 922px;
+    top: 881px;
+}
+.starIcon6 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 982px;
+    top: 881px;
+}
+.starIcon5 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 952px;
+    top: 881px;
+}
+.starIcon7 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 1012px;
+    top: 881px;
+}
+.starIcon8 {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 1041px;
+    top: 881px;
+}
+._5-0-64 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 1076px;
+    top: 880px;
+}
+.boxBook2 {
+    background: #5cb9ce;
+    border-radius: 10px;
+    width: 120px;
+    height: 60px;
+    position: absolute;
+    left: 1205px;
+    top: 810px;
+}
+  .book3 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 1235px;
+    top: 827px;
+  }
+  .booking-a-carpool {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 85px;
+    top: 116px;
+  }

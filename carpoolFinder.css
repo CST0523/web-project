@@ -1,0 +1,471 @@
+.carpoolBackground {
+    background: linear-gradient(
+      90deg,
+      rgba(92, 185, 206, 0.85) 0%,
+      rgba(72, 191, 178, 0.64) 84.375%,
+      rgba(19, 206, 103, 0.07) 100%
+    );
+    width: 1440px;
+    height: 320px;
+    position: absolute;
+    left: 0px;
+    top: 70px;
+}
+.carpoolBackImg {
+    border-radius: 160.5px;
+    width: 1251px;
+    height: 366px;
+    position: absolute;
+    left: 290px;
+    top: 48px;
+}
+.carpool-finder {
+    color: #000000;
+    text-align: left;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    position: absolute;
+    left: 67px;
+    top: 121px;
+    width: 140px;
+    height: 45px;
+}
+.bar {
+    position: absolute;
+    inset: 0;
+}
+.bar1 {
+    background: #ffffff;
+    width: 1250px;
+    height: 104px;
+    position: absolute;
+    left: 95px;
+    top: 460px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+}
+.find-rider {
+    width: 208px;
+    height: 50px;
+    position: static;
+    cursor: pointer;
+}
+.boxFindRider {
+    background: linear-gradient(
+      90deg,
+      rgba(92, 185, 206, 1) 0%,
+      rgba(72, 191, 178, 0.45) 100%
+    );
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 208px;
+    height: 50px;
+    position: absolute;
+    left: 1112px;
+    top: 487px;
+}
+.find-a-rider {
+    color: #000000;
+    text-align: left;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    position: absolute;
+    left: 1149px;
+    top: 499px;
+}
+.leaving {
+    width: 208px;
+    height: 50px;
+    position: static;
+}
+.boxLeaving {
+    background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 208px;
+    height: 50px;
+    position: absolute;
+    left: 160px;
+    top: 487px;
+}
+.leaving-from {
+    color: rgba(0, 0, 0, 0.4);
+    text-align: left;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 208px;
+    top: 499px;
+}
+.locationIcon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 169px;
+    top: 497px;
+}
+.going-to {
+    width: 208px;
+    height: 50px;
+    position: static;
+}
+.boxGoing {
+    background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 208px;
+    height: 50px;
+    position: absolute;
+    left: 398px;
+    top: 487px;
+}
+.going-to2 {
+    color: rgba(0, 0, 0, 0.4);
+    text-align: left;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 457px;
+    top: 499px;
+}
+.goingIcon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 409px;
+    top: 499px;
+}
+.time {
+    width: 208px;
+    height: 50px;
+    position: static;
+}
+.boxTime {
+    background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 208px;
+    height: 50px;
+    position: absolute;
+    left: 636px;
+    top: 487px;
+}
+.select-date {
+    color: rgba(0, 0, 0, 0.4);
+    text-align: left;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 702px;
+    top: 499px;
+}
+.timeIcon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 654px;
+    top: 497px;
+}
+.number-passenger {
+    width: 208px;
+    height: 50px;
+    position: static;
+}
+.boxPass {
+    background: #ffffff;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #d9d9d9;
+    border-width: 1px;
+    width: 208px;
+    height: 50px;
+    position: absolute;
+    left: 874px;
+    top: 487px;
+}
+.people {
+    color: rgba(0, 0, 0, 0.4);
+    text-align: left;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 940px;
+    top: 499px;
+}
+.peopleIcon {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 894px;
+    top: 497px;
+}
+.popular-route {
+    position: absolute;
+    inset: 0;
+}
+.carpoolContainer {
+    background: #ffffff;
+    width: 1440px;
+    height: 337px;
+    position: absolute;
+    left: 0px;
+    top: 687px;
+}
+.where-do-you-want-to-go-popular-route {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    left: 432px;
+    top: 687px;
+    width: 575px;
+}
+.puchong-sunway {
+    width: 390px;
+    height: 160px;
+    position: static;
+}
+.boxPuchongToSunway {
+    background: #ffffff;
+    border-radius: 10px;
+    width: 390px;
+    height: 160px;
+    position: absolute;
+    left: 108px;
+    top: 821px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.puchong-sunway2 {
+    width: 336px;
+    height: 88px;
+    position: static;
+}
+.starting-from {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 345px;
+    top: 859px;
+}
+.rm-5 {
+    color: #5451df;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 389px;
+    top: 914px;
+}
+.whiteDot {
+    background: #d9d9d9;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 135px;
+    top: 863px;
+}
+.puchong {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 179px;
+    top: 857px;
+}
+.sunway {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 179px;
+    top: 906px;
+}
+.blueDot {
+    background: #5cb9ce;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 135px;
+    top: 912px;
+}
+.oug-sugai-besi {
+    width: 390px;
+    height: 160px;
+    position: static;
+}
+.boxOugToSB {
+    background: #ffffff;
+    border-radius: 10px;
+    width: 390px;
+    height: 160px;
+    position: absolute;
+    left: 531px;
+    top: 821px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.oug-sungai-besi {
+    width: 336px;
+    height: 88px;
+    position: static;
+}
+.starting-from2 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 768px;
+    top: 859px;
+}
+.rm-12 {
+    color: #5451df;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 808px;
+    top: 914px;
+}
+.whiteDot1 {
+    background: #d9d9d9;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 558px;
+    top: 863px;
+}
+.oug {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 606px;
+    top: 857px;
+}
+.sungai-besi {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 602px;
+    top: 906px;
+}
+.blueDot1 {
+    background: #5cb9ce;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 558px;
+    top: 912px;
+}
+.klang-sri-petaling {
+    width: 390px;
+    height: 160px;
+    position: static;
+}
+.boxKlangToSP {
+    background: #ffffff;
+    border-radius: 10px;
+    width: 390px;
+    height: 160px;
+    position: absolute;
+    left: 954px;
+    top: 821px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.klang-sri-petaling2 {
+    width: 336px;
+    height: 88px;
+    position: static;
+}
+.starting-from3 {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 1191px;
+    top: 859px;
+}
+.rm-8 {
+    color: #5451df;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 1234px;
+    top: 914px;
+}
+.whiteDot2 {
+    background: #d9d9d9;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 981px;
+    top: 863px;
+}
+.klang {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 1021px;
+    top: 857px;
+}
+.sri-petaling {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 1020px;
+    top: 906px;
+}
+.blueDot2 {
+    background: #5cb9ce;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 981px;
+    top: 912px;
+}

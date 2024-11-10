@@ -1,0 +1,108 @@
+.rentScooterTop {
+    background: #ffffff;
+    width: 1440px;
+    height: 575px;
+    position: absolute;
+    left: 0px;
+    top: 390px;
+}
+.top {
+    position: absolute;
+    inset: 0;
+}
+.rentScooterBack {
+    border-radius: 80px;
+    width: 652px;
+    height: 320px;
+    position: absolute;
+    left: 0px;
+    top: 70px;
+}
+.topBack {
+    background: linear-gradient(
+      90.02deg,
+      rgba(19, 206, 103, 0.25) 0%,
+      rgba(72, 191, 178, 0.36) 31.354141235351562%,
+      rgba(92, 185, 206, 0.8) 100%
+    );
+    border-radius: 80px;
+    width: 1440px;
+    height: 318px;
+    position: absolute;
+    left: 0px;
+    top: 72px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.reserve-rent-e-scooter {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Bold", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    position: absolute;
+    left: 813px;
+    top: 95px;
+}
+.find-nearset-scooter {
+    position: absolute;
+    inset: 0;
+}
+.containerFindScooter {
+    background: #ffffff;
+    width: 1056px;
+    height: 492px;
+    position: absolute;
+    left: 192px;
+    top: 473px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.4);
+}
+.findScooter {
+    width: 573px;
+    height: 456px;
+    position: absolute;
+    left: 620px;
+    top: 491px;
+}
+.current-locate {
+    width: 281px;
+    height: 60px;
+    position: static;
+}
+.boxCurrentLocation {
+    background: #ffffff;
+    border-style: solid;
+    border-color: #5cb9ce;
+    border-width: 4px;
+    width: 281px;
+    height: 60px;
+    position: absolute;
+    left: 255px;
+    top: 719px;
+}
+.current-location {
+    color: #000000;
+    text-align: center;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 320px;
+    top: 737px;
+}
+.iconLocation {
+    width: 35px;
+    height: 36.34px;
+    position: absolute;
+    left: 273px;
+    top: 735px;
+}
+  .find-the-nearest-available-scooter {
+    color: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    position: absolute;
+    left: 246px;
+    top: 539px;
+  }

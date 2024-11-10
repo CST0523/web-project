@@ -1,0 +1,387 @@
+.searchBar {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 797px;
+  height: 44px;
+  position: absolute;
+  left: 83px;
+  top: 442px;
+}
+.searchIcon1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 107px;
+  top: 454px;
+}
+.search-for-a-line1 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 452px;
+}
+.green-public-transport-real-time-locater {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 67px;
+  top: 123px;
+}
+.real-timeImg {
+  width: 250px;
+  height: 338.65px;
+  position: absolute;
+  left: 1077px;
+  top: 103px;
+}
+.group8 {
+  position: absolute;
+  inset: 0;
+}
+.box7 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1115px;
+  height: 507px;
+  position: absolute;
+  left: 83px;
+  top: 517px;
+}
+.box8 {
+  background: rgba(217, 217, 217, 0.47);
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-width: 1px;
+  width: 1115px;
+  height: 62px;
+  position: absolute;
+  left: 83px;
+  top: 517px;
+}
+.box9 {
+  background: rgba(217, 217, 217, 0.47);
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-width: 1px;
+  width: 1115px;
+  height: 39px;
+  position: absolute;
+  left: 83px;
+  top: 579px;
+}
+.all {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 354px;
+  top: 535px;
+}
+.mrt-lrt {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 627px;
+  top: 535px;
+}
+.monorail {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 841px;
+  top: 535px;
+}
+.bus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 487px;
+  top: 535px;
+}
+.starIcon {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 198px;
+  top: 523px;
+}
+.busUnderline {
+  border-style: solid;
+  border-color: rgba(72, 191, 178, 0.75);
+  border-width: 4px 0 0 0;
+  width: 60px;
+  height: 0px;
+  position: absolute;
+  left: 474px;
+  top: 565px;
+}
+.gokl-city-bus {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 160px;
+  top: 584px;
+}
+.bus-1 {
+  width: 390px;
+  height: 60px;
+  position: static;
+}
+.bus-icon {
+  width: 390px;
+  height: 60px;
+  position: static;
+}
+.box01 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 160px;
+  top: 632px;
+}
+.busIcon {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 165px;
+  top: 637px;
+}
+.underline1 {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 4px 0 0 0;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+  left: 161px;
+  top: 681px;
+}
+.suria-klcc-bukit-bintang {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 223px;
+  top: 628px;
+}
+.bus-2 {
+  width: 440px;
+  height: 60px;
+  position: static;
+}
+.bus-icon2 {
+  width: 440px;
+  height: 60px;
+  position: static;
+}
+.box02 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 159px;
+  top: 715px;
+}
+.busIcon1 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 164px;
+  top: 720px;
+}
+.underline2 {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 4px 0 0 0;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+  left: 160px;
+  top: 764px;
+}
+.hub-pasar-seni-bukit-bintang {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 222px;
+  top: 711px;
+}
+.bus-3 {
+  width: 360px;
+  height: 60px;
+  position: static;
+}
+.bus-icon3 {
+  width: 360px;
+  height: 60px;
+  position: static;
+}
+.box03 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 161px;
+  top: 798px;
+}
+.busIcon3 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 166px;
+  top: 803px;
+}
+.underline3 {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 4px 0 0 0;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+  left: 162px;
+  top: 847px;
+}
+.titiwangsa-kl-sentral {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 224px;
+  top: 794px;
+}
+.bus-4 {
+  width: 394px;
+  height: 60px;
+  position: static;
+}
+.bus-icon4 {
+  width: 394px;
+  height: 60px;
+  position: static;
+}
+.box04 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 161px;
+  top: 881px;
+}
+.busIcon4 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 166px;
+  top: 886px;
+}
+.underline4 {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 4px 0 0 0;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+  left: 162px;
+  top: 930px;
+}
+.titiwangsa-bukit-bintang {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 224px;
+  top: 877px;
+}
+.bus-5 {
+  width: 327px;
+  height: 60px;
+  position: static;
+}
+.bus-icon5 {
+  width: 327px;
+  height: 60px;
+  position: static;
+}
+.box05 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 161px;
+  top: 964px;
+}
+.busIcon5 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 166px;
+  top: 969px;
+}
+.underline5 {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 4px 0 0 0;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+  left: 162px;
+  top: 1013px;
+}
+.titiwangsa-mindef {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 224px;
+  top: 960px;
+}

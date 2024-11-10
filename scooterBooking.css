@@ -1,0 +1,94 @@
+.reserve-a-e-scooter {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    position: absolute;
+    left: 83px;
+    top: 108px;
+}
+.select {
+    position: absolute;
+    inset: 0;
+}
+.findScooter1 {
+    width: 573px;
+    height: 456px;
+    position: absolute;
+    left: 401px;
+    top: 185px;
+}
+.select-a-scooter {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    position: absolute;
+    left: 401px;
+    top: 185px;
+}
+.unlock-scooter {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 23px;
+    font-weight: 700;
+    position: absolute;
+    left: 46px;
+    top: 641px;
+}
+.qr {
+    position: absolute;
+    inset: 0;
+}
+.scan-qr-code {
+    color: #000000;
+    text-align: center;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 614px;
+    top: 706px;
+}
+.qrIcon {
+    width: 303px;
+    height: 286px;
+    position: absolute;
+    left: 536px;
+    top: 722px;
+}
+.timer {
+    position: absolute;
+    inset: 0;
+}
+.timeLeftBox {
+    background: #d9d9d9;
+    border-radius: 10px;
+    width: 177px;
+    height: 56px;
+    position: absolute;
+    left: 1122px;
+    top: 709px;
+}
+._4-59 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inika-Bold", sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    position: absolute;
+    left: 1200px;
+    top: 720px;
+    width: 85px;
+    height: 50px;
+}
+.clockIcon-1 {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 1137px;
+    top: 716px;
+}

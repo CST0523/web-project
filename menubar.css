@@ -1,0 +1,111 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+  
+.menu-bar
+{
+    background: linear-gradient(180deg, rgba(215,238,242,1) 0%, rgba(218,241,241,1) 28%, rgba(234,250,243,1) 63%, rgba(245,253,249,1) 100%);
+    text-align: center;
+    z-index: 999;
+    
+    width:100%;
+    
+}
+.menu-bar ul
+{
+    display: inline-flex;
+    list-style: none;
+    color: #000;
+}
+.menu-bar ul li
+{
+    width:120px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a
+{
+    text-decoration: none;
+    color:black;
+}
+.active,.menu-bar ul li:hover
+{
+    background: linear-gradient(90deg, rgba(173,220,229,1) 0%, rgba(153,224,205,1) 30%, rgba(135,221,192,1) 61%, rgba(111,200,201,1) 100%);
+    border-radius: 3px;
+}
+.menu-bar .fa
+{
+    margin-right:8px;
+}
+
+.sub-menu-1
+{
+    display: none;
+    z-index: 999;
+}
+.menu-bar ul li:hover .sub-menu-1
+{
+    display:block;
+    position:absolute;
+    background: linear-gradient(180deg, rgba(215,238,242,1) 0%, rgba(218,241,241,1) 28%, rgba(234,250,243,1) 63%, rgba(245,253,249,1) 100%);
+    margin-top:15px;
+    margin-left: -15px;
+    
+}
+.menu-bar ul li:hover .sub-menu-1 ul
+{
+    display:block;
+    margin:10px;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li
+{
+    width:150px;
+    padding:10px;
+    border-bottom: 1px dotted #fff;
+    background:transparent;
+    border-radius:0;
+    text-align:left;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li:last-child
+{
+    border-bottom:none;
+}
+.menu-bar ul li:hover .sub-menu-1 ul li a:hover
+{
+    background-color:#1A5276;
+    color:white;
+}
+
+.company-name-logo {
+    width: 220px;
+    height: 50px;
+    position: static;
+  }
+  .green-trips {
+    color: #000000;
+    text-align: left;
+    font-family: "IrishGrover-Regular", sans-serif;
+    font-size: 28px;
+    font-weight: 900;
+    position: absolute;
+    left: 83px;
+    top: 17px;
+  }
+  .logo img{
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    left: 17px;
+    top: 7px;
+  }

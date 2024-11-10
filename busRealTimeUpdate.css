@@ -1,0 +1,377 @@
+.busRealTimeBackground {
+  background: #ffffff;
+  width: 1440px;
+  height: 520px;
+  position: absolute;
+  left: 0px;
+  top: 70px;
+}
+.timeline {
+  position: absolute;
+  inset: 0;
+}
+.timelineContainer {
+  background: rgba(142, 226, 245, 0.15);
+  width: 100%;
+  height: 366px;
+  position: absolute;
+  left: 0px;
+  top: 658px;
+}
+.timelineBox {
+  width: 549px;
+  height: 281.67px;
+  position: static;
+}
+.klcc-utara-kl-94 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 265px;
+  top: 742.33px;
+  width: 180px;
+  height: 21.93px;
+}
+.menara-bsn-kl-98 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 265px;
+  top: 819.07px;
+  width: 171px;
+  height: 21.93px;
+}
+.monorail-raja-chulan-kl-22 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 265px;
+  top: 895.82px;
+  width: 258px;
+  height: 21.93px;
+}
+.kl-convention-centre-barat-kl-88 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 266px;
+  top: 972.56px;
+  width: 330px;
+  height: 21.93px;
+}
+.verticalLine {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 5px 0 0 0;
+  width: 271.56px;
+  height: 0px;
+  position: absolute;
+  left: 212px;
+  top: 1024px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.greenDot1 {
+  background: #1ed430;
+  border-radius: 50%;
+  width: 15px;
+  height: 12.65px;
+  position: absolute;
+  left: 208px;
+  top: 744.02px;
+}
+.greenDot2 {
+  background: #1ed430;
+  border-radius: 50%;
+  width: 15px;
+  height: 12.65px;
+  position: absolute;
+  left: 208px;
+  top: 823.29px;
+}
+.greenDot3 {
+  background: #1ed430;
+  border-radius: 50%;
+  width: 15px;
+  height: 12.65px;
+  position: absolute;
+  left: 208px;
+  top: 903.41px;
+}
+.greenDot4 {
+  background: #1ed430;
+  border-radius: 50%;
+  width: 15px;
+  height: 12.65px;
+  position: absolute;
+  left: 208px;
+  top: 976.77px;
+}
+._06-15 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 709px;
+  top: 769.32px;
+  width: 35px;
+  height: 17.71px;
+}
+._06-16 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 710px;
+  top: 841px;
+  width: 36px;
+  height: 17.71px;
+}
+._06-21 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 710px;
+  top: 928.71px;
+  width: 35px;
+  height: 17.71px;
+}
+._06-23 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 712px;
+  top: 997.86px;
+  width: 37px;
+  height: 17.71px;
+}
+._6-00 {
+  width: 100px;
+  height: 25.3px;
+  position: static;
+}
+.timeBox1 {
+  background: #8ee2f5;
+  border-radius: 10px;
+  width: 100px;
+  height: 25.3px;
+  position: absolute;
+  left: 657px;
+  top: 744.02px;
+}
+._06-00 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 744.02px;
+  width: 48px;
+  height: 21.93px;
+}
+.time1 {
+  width: 23.72px;
+  height: 20px;
+  position: absolute;
+  left: 666px;
+  top: 747.39px;
+}
+.timeBox2 {
+  background: #8ee2f5;
+  border-radius: 10px;
+  width: 100px;
+  height: 25.3px;
+  position: absolute;
+  left: 657px;
+  top: 815.7px;
+}
+._06-01 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 815.7px;
+  width: 45px;
+  height: 21.93px;
+}
+.time2 {
+  width: 23.72px;
+  height: 20px;
+  position: absolute;
+  left: 666px;
+  top: 819.07px;
+}
+.timeBox3 {
+  background: #8ee2f5;
+  border-radius: 10px;
+  width: 100px;
+  height: 25.3px;
+  position: absolute;
+  left: 657px;
+  top: 898.35px;
+}
+._06-06 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 898.35px;
+  width: 49px;
+  height: 21.93px;
+}
+.time3 {
+  width: 23.72px;
+  height: 20px;
+  position: absolute;
+  left: 666px;
+  top: 901.72px;
+}
+.timeBox4 {
+  background: #8ee2f5;
+  border-radius: 10px;
+  width: 100px;
+  height: 25.3px;
+  position: absolute;
+  left: 657px;
+  top: 972.56px;
+}
+._06-08 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 696px;
+  top: 972.56px;
+  width: 48px;
+  height: 21.93px;
+}
+.time4 {
+  width: 23.72px;
+  height: 20px;
+  position: absolute;
+  left: 666px;
+  top: 975.93px;
+}
+.suria-klcc-bukit-bintang {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 120px;
+  top: 674.87px;
+  width: 328px;
+  height: 26.14px;
+}
+.realTimeBusTracking {
+  width: 802px;
+  height: 389px;
+  position: absolute;
+  left: 290px;
+  top: 145px;
+}
+.bus-icon {
+  position: absolute;
+  inset: 0;
+}
+.busBox {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 75px;
+  top: 75px;
+}
+.bus-Icon {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 80px;
+  top: 80px;
+}
+.busLine {
+  border-style: solid;
+  border-color: #1ed430;
+  border-width: 4px 0 0 0;
+  width: 48px;
+  height: 0px;
+  position: absolute;
+  left: 76px;
+  top: 124px;
+}
+.gokl-01-green {
+  color: #000000;
+  text-align: left;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 136px;
+  top: 85px;
+}
+.search {
+  position: absolute;
+  inset: 0;
+}
+.searchBar {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 797px;
+  height: 44px;
+  position: absolute;
+  left: 292px;
+  top: 570px;
+}
+.searchIcon2 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 316px;
+  top: 580px;
+}
+.which-station-are-you-at {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 361px;
+  top: 578px;
+ }

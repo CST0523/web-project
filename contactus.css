@@ -1,0 +1,130 @@
+
+    .loginbox {
+      background-color: white;
+      width: 500px;
+      height: 400px;
+      border: 5px solid grey;
+      padding: 50px;
+      margin: 20px;
+      border-radius: 10px;
+      position: absolute;
+      left: 50%;
+      top:20%;
+      box-shadow: 200px solid black;
+    }
+
+
+    body{
+      background-color:#1A5276;
+      /*background:url("Login.jpg");*/
+      background-size: cover;
+      background-position: center;
+      font-family: sans-serif;
+      box-sizing: border-box;
+    }
+
+
+    input[type=text], select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 3px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+      position:center;
+    }
+
+    input[type=submit] {
+      background-color: #8EE2F5;
+      color: black;
+      padding: 12px 20px;
+      border: 5px solid white;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    input[type=submit]:hover {
+      background-color: #1A5276;
+      color: white;
+    }
+
+    .containercontact {
+      border-radius: 5px;
+      background-color: #8EE2F5;
+      padding: 40px;
+      width:550px;
+      height:550px;
+      margin:50px;
+      position: absolute;
+      left: 750px;
+      top: 100px;
+    }
+
+    form{
+      position:center;
+      padding: 15px;
+    }
+
+
+    .containeroffice{
+      border-radius: 5px;
+      background-color: white;
+      padding: 40px;
+      width:300px;
+      height:230px;
+      margin:50px;
+      position: absolute;
+      left: 150px;
+      top: 150px;
+    }
+
+    .containerphone{
+      border-radius: 5px;
+      background-color: white;
+      padding: 40px;
+      width:300px;
+      height:230px;
+      margin:50px;
+      position: absolute;
+      left: 470px;
+      top: 150px;
+      z-index:1;
+    }
+
+    .containerfax{
+      border-radius: 5px;
+      background-color: white;
+      padding: 40px;
+      width:300px;
+      height:230px;
+      margin:50px;
+      position: absolute;
+      left: 150px;
+      top: 400px;
+    }
+
+
+    .containeremail{
+      border-radius: 5px;
+      background-color: white;
+      padding: 40px;
+      width:300px;
+      height:230px;
+      margin:50px;
+      position: absolute;
+      left: 470px;
+      top: 400px;
+      z-index:1;
+    }
+
+    #error_msg{
+      color:green;
+    }
+
+
+h1{
+  font-size:20px;
+}
+

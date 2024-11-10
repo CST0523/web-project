@@ -1,0 +1,308 @@
+.topBackground {
+  background: linear-gradient(
+    90.02deg,
+    rgba(92, 185, 206, 1) 0%,
+    rgba(72, 191, 178, 0.75) 85.52080988883972%,
+    rgba(19, 206, 103, 0.08) 99.98999834060669%,
+    rgba(19, 206, 103, 0.08) 100%
+  );
+  width: 100%;
+  height: 350px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.topBackgroundImg {
+  width: 100%;
+  height: 315px;
+  position: static;
+  left: 50px;
+  top: 74px;
+}
+.green-public-transport {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 85px;
+  top: 50px;
+}
+.search-for-a-line {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 500px;
+  top: 452px;
+}
+.searchBarBackg {
+  background: #d9d9d9;
+  border-radius: 30px;
+  width: 797px;
+  height: 44px;
+  position: absolute;
+  left: 310px;
+  top: 512px;
+}
+.searchIcon {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 310px;
+  top: 524px;
+}
+.search1 {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 379px;
+  top: 522px;
+}
+
+.lrt {
+  width: 180px;
+  height: 140px;
+  position: static;
+}
+.box1 {
+  background: rgba(72, 191, 178, 0.45);
+  border-radius: 10px;
+  width: 180px;
+  height: 140px;
+  position: absolute;
+  left: 390px;
+  top: 602px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.group1 {
+  width: 65px;
+  height: 104px;
+  position: static;
+}
+.lrt2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 457px;
+  top: 688px;
+  width: 63px;
+  height: 43px;
+}
+.lrtIcon {
+  width: 50px;
+  height: 51.85px;
+  position: absolute;
+  left: 455px;
+  top: 627px;
+}
+.mrt {
+  width: 180px;
+  height: 140px;
+  position: static;
+}
+.box2 {
+  background: rgba(72, 191, 178, 0.45);
+  border-radius: 10px;
+  width: 180px;
+  height: 140px;
+  position: absolute;
+  left: 630px;
+  top: 602px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.group2 {
+  width: 63px;
+  height: 104px;
+  position: static;
+}
+.mrt2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 693px;
+  top: 688px;
+  width: 63px;
+  height: 43px;
+}
+.mrtIcon {
+  width: 50px;
+  height: 51.85px;
+  position: absolute;
+  left: 695px;
+  top: 627px;
+}
+.monorail1 {
+  width: 180px;
+  height: 140px;
+  position: static;
+}
+.box3 {
+  background: rgba(72, 191, 178, 0.45);
+  border-radius: 10px;
+  width: 180px;
+  height: 140px;
+  position: absolute;
+  left: 870px;
+  top: 602px;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.group3 {
+  width: 63px;
+  height: 104px;
+  position: static;
+}
+.monorail2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 913px;
+  top: 688px;
+  width: 115px;
+  height: 43px;
+}
+  .monorailIcon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 932px;
+    top: 629px;
+  }
+  .electrical-bus {
+    width: 180px;
+    height: 140px;
+    position: static;
+  }
+  .box4 {
+    background: rgba(72, 191, 178, 0.45);
+    border-radius: 10px;
+    width: 180px;
+    height: 140px;
+    position: absolute;
+    left: 390px;
+    top: 802px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+  .group4 {
+    width: 124px;
+    height: 128px;
+    position: static;
+  }
+.electrical-bus2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inika-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 415px;
+  top: 880px;
+  width: 124px;
+  height: 76px;
+  }
+  .electricalBusIcon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 454px;
+    top: 814px;
+  }
+  .carpool {
+    width: 180px;
+    height: 140px;
+    position: static;
+  }
+  .box5 {
+    background: rgba(72, 191, 178, 0.45);
+    border-radius: 10px;
+    width: 180px;
+    height: 140px;
+    position: absolute;
+    left: 630px;
+    top: 802px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+  .group5 {
+    width: 89px;
+    height: 102px;
+    position: static;
+  }
+  .carpool2 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 675px;
+    top: 880px;
+    width: 89px;
+    height: 43px;
+  }
+  .carpoolIcon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 690px;
+    top: 821px;
+  }
+  .e-scooter {
+    width: 180px;
+    height: 140px;
+    position: static;
+  }
+  .box6 {
+    background: rgba(72, 191, 178, 0.45);
+    border-radius: 10px;
+    width: 180px;
+    height: 140px;
+    position: absolute;
+    left: 870px;
+    top: 802px;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+  }
+  .group6 {
+    width: 108px;
+    height: 94px;
+    position: static;
+  }
+  .e-scooter2 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inika-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: absolute;
+    left: 910px;
+    top: 880px;
+    width: 108px;
+    height: 43px;
+  }
+  .scooterIcon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 932px;
+    top: 821px;
+  }
